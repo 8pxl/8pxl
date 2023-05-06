@@ -1,6 +1,6 @@
 ### keej <3
 
-[![8pxl's GitHub stats](https://github-readme-stats.vercel.app/api?username=8pxl)](https://github.com/8pxl/github-readme-stats)
+[![8pxl's GitHub stats](https://github-readme-stats.vercel.app/api?username=8pxl&theme=dracula)](https://github.com/8pxl/github-readme-stats)
 <!--
 **8pxl/8pxl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
