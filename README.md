@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 High school student interested in robotics, control systems, and machine learning
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=aliuahma&count_private=true&theme=radical&rank_icon=github" />
+<a href="https://github.com/8pxl/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=8pxl&count_private=true&theme=radical&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliuahma&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex,SCSS,jupyter%20notebook,CMake,Common%20Lisp&layout=compact&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8pxl&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex,SCSS,jupyter%20notebook,CMake,Common%20Lisp&layout=compact&theme=radical" />
 </a>
