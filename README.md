@@ -1,20 +1,7 @@
-<!--
-## Hi there 👋
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-##  <img src="https://github.com/user-attachments/assets/224276df-1a53-4296-9276-02995b98c94d" width="25"> Hello, I'm keijay!
-
-High school student interested in robotics, control systems, and machine learning
-[![keijay's GitHub stats](https://github-readme-stats.vercel.app/api?username=8pxl)](https://github.com/8pxl/github-readme-stats)
+- uses: lowlighter/metrics@latest
+  with:
+    base: header
+    plugin_isocalendar: yes
+    plugin_languages: yes
+    plugin_stars: yes
+    config_order: base.header, isocalendar, languages, stars
