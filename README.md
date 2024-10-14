@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 
 ##  <img src="https://github.com/user-attachments/assets/224276df-1a53-4296-9276-02995b98c94d" width="25"> Hello, I'm keijay!
 
-[![Linkedin](https://img.shields.io/badge/-aliuahma-05122A?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aliuahma)](https://www.linkedin.com/in/aliuahma)
-
 High school student interested in robotics, control systems, and machine learning
 
 <a href="https://github.com/8pxl/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/?username=8pxl&count_private=true&theme=radical&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats"> -->
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8pxl&size_weight=0.4&count_weight=0.6&hide=Makefile,Tex,SCSS,jupyter%20notebook,CMake,Common%20Lisp&layout=compact&theme=radical" />
 </a>
