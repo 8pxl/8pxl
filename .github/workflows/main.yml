@@ -1,33 +1,20 @@
 name: Metrics
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-
+    permissions:
+      contents: write
     steps:
-      # Checkout the repository
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      # Generate GitHub metrics
+      # Generate both default and full-year calendar metrics in one step
       - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.isocalendar.fullyear.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: "" # Add "user" if you want your user metrics, or "repository" for repo metrics
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
-
-      # Optionally upload the result to the repository or a branch
-      - name: Commit and push metrics
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Update GitHub metrics"
-          file_pattern: metrics.plugin.isocalendar.fullyear.svg
+          filename: metrics.plugin.isocalendar.fullyear.svg
